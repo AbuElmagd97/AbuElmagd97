@@ -9,13 +9,19 @@
 
 - 🔭 I’m currently working on [Visage App](https://gitlab.com/alexapps/vizage-provider)
 
+- 👯 I’m looking to **collaborate with other content creators**
+
 - 🌱 I’m currently learning **Flutter,BLoC,iOS development,design patterns,Architecture patterns**
+
+- 🤝 I’m looking for **help with 🥅 2022 Goals: Contribute more to Open Source projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbuElmagd97](https://github.com/AbuElmagd97)
 
-- 💬 Ask me about **flutter, dart , java , mobile development, projects structures and design patterns**
+- 💬 Ask me about **Anything related about Programming and life ❤️❤️**
 
 - 📫 How to reach me **Mohamed.aboelmagd2021@gmail.com**
+
+- ⚡ Fun fact **I love drawing 🖌️🎨 , I am an Artist 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
